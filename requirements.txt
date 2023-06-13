@@ -1,0 +1,6 @@
+nltk==3.8.1
+pandas==1.5.3
+streamlit==4.2.2
+scikit-learn==1.2.2
+pip==23.1.2
+numpy==1.21.5
