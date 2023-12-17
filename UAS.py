@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import MinMaxScaler
 from streamlit_option_menu import option_menu
 import pandas as pd
