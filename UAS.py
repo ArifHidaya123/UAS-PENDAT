@@ -1,9 +1,4 @@
-import streamlit as st
-from PIL import Image
-from sklearn.preprocessing import MinMaxScaler
-from streamlit_option_menu import option_menu
-import pandas as pd
-import numpy as np
+
 
 selected = option_menu(
     menu_title=None,
